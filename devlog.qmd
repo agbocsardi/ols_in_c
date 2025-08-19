@@ -7,3 +7,7 @@ Below you will find a timeline of this project. I am not yet sure how long it wi
 ### 2025-08-13
 
 Today is the first day of the project! I specified my requirements for the project, to have some reasonable goals to strive for. After a good bit of time wasted researching the oPtImAl C dEvElOpEr WoRkFlOw I decided to just ask some of my computer scientist colleagues, who unequivocally said that it literally doesn't matter for a project this size and/or scope :D
+
+### 2025-08-19
+
+Got started on the first part! File IO feels a bit arcane, but at least I'm working from a functional "hello world" setup. I did some research, and despite the appeal of hand-coding matrices and all the required operations (shoutout Filippo for [the great post on this](https://filipposcaramuzza.dev/2024/06/11/implementing-a-neural-network-in-pure-c-ep-4/)), I opted to use the [GNU Scientific Library](https://www.gnu.org/software/gsl/) (GSL) for all my linalg needs.

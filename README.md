@@ -41,3 +41,9 @@ I will elaborate on each step below.
 - [] Return nice regression table summary
 
 
+## Notes
+
+Compile and run the code with: 
+```sh
+gcc -Wall -I/opt/homebrew/include -c main.c && ./main
+```
