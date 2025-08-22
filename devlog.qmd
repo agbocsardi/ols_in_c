@@ -11,3 +11,7 @@ Today is the first day of the project! I specified my requirements for the proje
 ### 2025-08-19
 
 Got started on the first part! File IO feels a bit arcane, but at least I'm working from a functional "hello world" setup. I did some research, and despite the appeal of hand-coding matrices and all the required operations (shoutout Filippo for [the great post on this](https://filipposcaramuzza.dev/2024/06/11/implementing-a-neural-network-in-pure-c-ep-4/)), I opted to use the [GNU Scientific Library](https://www.gnu.org/software/gsl/) (GSL) for all my linalg needs.
+
+### 2025-08-22
+
+I have encountered the differences between `*` and `&` pointers! I have been digging into the rabbithole a bit, my garbage collected pythonista brain has a somewhat hard time interpreting it, despite undestanding it. I guess a large part of the whole "manual memory management" game is about developing the eye and frame of thinking for this. 

@@ -9,6 +9,12 @@ char get_filename() {
   return filename;
 }
 
+FILE *load_file(char filename) {
+  
+  fopen(filename, "r")
+
+}
+
 
 
 int main() {
